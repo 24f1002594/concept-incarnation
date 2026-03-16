@@ -2,5 +2,6 @@
   "prompt": "A dimly lit tailor's workshop, dramatic side lighting, film grain. LEFT side: a single tailor's dummy with an unusual asymmetric body shape — one shoulder higher, slight hunch, irregular torso. A bespoke suit fits it with obsessive, uncanny perfection — every seam follows every irregularity exactly, excessive stitching visible, almost disturbing in its precision. RIGHT side: the exact same suit placed on a perfectly standard symmetric mannequin — the suit fails catastrophically, fabric bunching violently at the shoulders, sleeves twisted and too long, chest pulling open, side seams warping, structurally collapsing. Photorealistic, 35mm cinematic, muted warm tones, no text, no labels, no diagrams anywhere.",
   "model": "DALL-E 3",
   "concept": "overfitting",
+  "publisher_email": "24f1002594@ds.study.iitm.ac.in",
   "metaphor": "A suit tailored to one body's exact irregularities fits it perfectly but collapses on a standard mannequin — precision on training data, failure on generalization."
 }
